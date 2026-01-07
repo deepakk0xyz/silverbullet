@@ -1,0 +1,6 @@
+---
+status: Home
+---
+# Home
+
+- [[Resume]]
