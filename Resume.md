@@ -1,3 +1,7 @@
+---
+path: Resume
+priority: 1
+---
 # Deepak Kar
 
 ## Experience
