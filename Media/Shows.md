@@ -1,4 +1,5 @@
 ---
-path: Media/Shows
 priority: 2
+tags:
+  - home
 ---

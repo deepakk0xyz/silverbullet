@@ -1,4 +1,5 @@
 ---
-path: Media/Films
 priority: 2
+tags:
+  - home
 ---

@@ -1,6 +1,8 @@
 ---
 path: Resume
 priority: 1
+tags:
+  - home
 ---
 # Deepak Kar
 

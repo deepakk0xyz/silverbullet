@@ -1,4 +1,5 @@
 ---
-path: Media/Books
 priority: 2
+tags:
+  - home
 ---

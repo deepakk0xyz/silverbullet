@@ -1,4 +1,5 @@
 ---
-path: Media/Anime
 priority: 2
+tags:
+  - home
 ---
