@@ -1,5 +1,4 @@
 ---
-path: Study/Mathematics/Proofs
 priority: 3
 tags:
   - home
