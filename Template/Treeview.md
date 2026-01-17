@@ -1,11 +1,13 @@
 #meta
 
 ```space-lua
-function treeToLines(tree, skip)
+treeview = treeview or {}
+
+function treeview.to_lines(tree, skip)
   local lines = {}
   for key, value in pairs(tree) do
     if key ~= "page" then
-      local subtree = treeToLines(value, skip-1)
+      local subtree = treeview.to_lines(value, skip-1)
       if skip <= 0 then
         if value.page ~= nil then
           table.insert(lines, "- [[" .. value.page.name .. 
@@ -26,7 +28,7 @@ function treeToLines(tree, skip)
   return lines
 end
 
-function treeview(tbl, skip)
+function treeview.template(tbl, skip)
   skip = skip or 0
   local tree = {}
   for _, page in ipairs(tbl) do
@@ -40,6 +42,6 @@ function treeview(tbl, skip)
       current = current[item]
     end
   end
-  return table.concat(treeToLines(tree, skip))
+  return table.concat(treeview.to_lines(tree, skip))
 end
 ```

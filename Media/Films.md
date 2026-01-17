@@ -4,13 +4,12 @@ tags:
   - home
 ---
 
-${
-widget.html(
+${widget.html(
   dom.div(
-    mediaTemplate(query[[
+    utils.map(query[[
       from index.tag "item"
       where page == "Data/Films"
-    ]])
+      order by name
+    ]], mediaTemplate)
   )
-)
-}
+)}

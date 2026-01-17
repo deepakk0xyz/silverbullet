@@ -4,7 +4,7 @@ tags:
   - home
 ---
 
-${treeview(query[[
+${treeview.template(query[[
   from index.tag "maths"
   order by name
 ]], 2)}
