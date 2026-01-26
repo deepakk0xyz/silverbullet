@@ -1492,7 +1492,7 @@
   [id: tt2582802]
 
 - Whisper of the Heart
-  [poster: https://m.media-amazon.com/images/M/MV5BNGE2NTc3Y2YtZTQ5Zi00NzZkLWIyNDUtZmZkZjQ2NWU0ZTIzXkEyXkFqcGc@._V1_SX300.jpg]
+  [poster: https://m.media-amazon.com/images/M/MV5BZWVlOGNlYjgtYWE4Yi00MjdiLWE1MTEtZTRmNzI1ODk5NzMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg]
   [url: https://www.imdb.com/title/tt0113824/]
   [status: Watched]
   [year: 1995]
