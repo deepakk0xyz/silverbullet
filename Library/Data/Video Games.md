@@ -167,7 +167,7 @@
 
 - The Stanley Parable: Ultra Deluxe
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/header.jpg?t=1712065263]
-  [status: Unplayed]
+  [status: Finished]
   [year: 2022]
 
 - Untitled Goose Game

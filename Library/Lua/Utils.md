@@ -19,4 +19,12 @@ function utils.map_with_key(tbl, func)
   end
   return result
 end
+
+function string.split(str, sep)
+  local result = {}
+  for value in string.gmatch(str, "([^" .. sep .. "]+)") do
+    table.insert(result, value)
+  end
+  return result
+end
 ```

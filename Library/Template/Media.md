@@ -4,18 +4,20 @@
 
 ```space-lua
 function mediaTemplate(media)
+  local tree = string.split(media.page, "/");
+  local page = string.lower(tree[#tree]);
   return dom.div {
-    class = "media";
+    class = "media " .. page;
     dom.a {
-      dom.img { src = media.poster; class = "poster"; };
+      dom.img { src = media.poster; class = "poster " .. page; };
       href = media.url;
       target = "_blank";
     };
     dom.br {};
-    dom.a { media.name; class = "text title"; href = media.url; target = "_blank" };
+    dom.a { media.name; class = "text title " .. page; href = media.url; target = "_blank" };
     dom.div { 
       "Status: " .. media.status;
-      class = "text"; 
+      class = "text " .. page; 
     };
   };
 end
@@ -51,6 +53,11 @@ end
   height: 450px;
 }
 
+.games .poster {
+  width: 100%;
+  height: 100%;
+}
+
 .text {
   display: flex;
   column-gap: 0px;
@@ -69,4 +76,5 @@ end
 .media:hover > .edit {
   display: block;
 }
+
 ```
