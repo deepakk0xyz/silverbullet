@@ -1,0 +1,443 @@
+# Shows Data
+
+- A Suitable Boy
+  [poster: https://m.media-amazon.com/images/M/MV5BMjhkZDhmMjYtMzU4Ny00ZGViLWIwNzAtNWJiZTRkNTUyYTk3XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt10795574/]
+  [status: Watched]
+  [year: 2020]
+  [id: tt10795574]
+
+- After Life
+  [poster: https://m.media-amazon.com/images/M/MV5BNDVkNzU5ZjAtNjE5MC00YjBmLTk0NjAtYmFiOTk3MGIwZDlmXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt8398600/]
+  [status: Watched]
+  [year: 2019–2022]
+  [id: tt8398600]
+
+- Alice in Borderland
+  [poster: https://m.media-amazon.com/images/M/MV5BZDdhMTAwMmQtOTVlYi00OTcwLTllZGMtMjc4NGU0NzFhODM3XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt10795658/]
+  [status: Watched]
+  [year: 2020–]
+  [id: tt10795658]
+
+- Arcane
+  [poster: https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt11126994/]
+  [status: Watched]
+  [year: 2021–2024]
+  [id: tt11126994]
+
+- Atypical
+  [poster: https://m.media-amazon.com/images/M/MV5BMTJiY2ZiNjEtMjk1MS00Yzk0LThiNGMtMGUzZjRlNjc1OTU2XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt6315640/]
+  [status: Watched]
+  [year: 2017–2021]
+  [id: tt6315640]
+
+- Avatar: The Last Airbender
+  [poster: https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt0417299/]
+  [status: Watched]
+  [year: 2005–2008]
+  [id: tt0417299]
+
+- Black Mirror
+  [poster: https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt2085059/]
+  [status: Watched]
+  [year: 2011–]
+  [id: tt2085059]
+
+- Blue Eye Samurai
+  [poster: https://m.media-amazon.com/images/M/MV5BY2E4ZGIwZWYtMGRiMS00NGI2LTgwYzAtZGY5NGVhNzY3Yjk0XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt13309742/]
+  [status: Watched]
+  [year: 2023–]
+  [id: tt13309742]
+
+- Bo Burnham: Inside
+  [poster: https://m.media-amazon.com/images/M/MV5BYjY5NzI4YWMtM2ZmYy00MzhlLThhZjctOGViOWQyYzRlOGExXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt14544192/]
+  [status: Watched]
+  [year: 2021]
+  [id: tt14544192]
+
+- Bo Burnham: Make Happy
+  [poster: https://m.media-amazon.com/images/M/MV5BMDgzZTA0NTYtOTBlMS00MWUyLTg2YzQtYmM0MGVhOGU4OTE4XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt5192124/]
+  [status: Watched]
+  [year: 2016]
+  [id: tt5192124]
+
+- Bo Burnham: what.
+  [poster: https://m.media-amazon.com/images/M/MV5BMzc2OWM3Y2QtMGNmMy00NzFhLTkwZTktZWFmOGY2ZDMzODUzXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt3210258/]
+  [status: Watched]
+  [year: 2013]
+  [id: tt3210258]
+
+- Bodies
+  [poster: https://m.media-amazon.com/images/M/MV5BYjA1NzVlZTctMTA4ZS00OWJhLTg0MGYtNGFhYzVmN2U1ZmJjXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt18347622/]
+  [status: Watched]
+  [year: 2023]
+  [id: tt18347622]
+
+- Bodyguard
+  [poster: https://m.media-amazon.com/images/M/MV5BN2I0NWE2Y2QtM2I3YS00MzRlLThlMjAtMDViNGMwNjRhZjVlXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt7493974/]
+  [status: Watched]
+  [year: 2018]
+  [id: tt7493974]
+
+- Breaking Bad
+  [poster: https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt0903747/]
+  [status: Unwatched]
+  [year: 2008–2013]
+  [id: tt0903747]
+
+- Brooklyn Nine-Nine
+  [poster: https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt2467372/]
+  [status: Watched]
+  [year: 2013–2021]
+  [id: tt2467372]
+
+- Crash Landing on You
+  [poster: https://m.media-amazon.com/images/M/MV5BZjM3ZGQ4ZTMtOTNjMS00NmJlLTljMWUtNWExMzJhMGJlMWNiXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt10850932/]
+  [status: Watched]
+  [year: 2019–2020]
+  [id: tt10850932]
+
+- Criminal: France
+  [poster: https://m.media-amazon.com/images/M/MV5BOGNkZDliOGItYzJjMy00NWQwLWJkYTEtNjEyMzgyYjEzNjliXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt10986052/]
+  [status: Watched]
+  [year: 2019]
+  [id: tt10986052]
+
+- Criminal: Germany
+  [poster: https://m.media-amazon.com/images/M/MV5BNDcxYzVhYWUtYTk4MC00MzExLWJlNTUtNTEyMzNkMDRlNjM5XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt10986056/]
+  [status: Watched]
+  [year: 2019]
+  [id: tt10986056]
+
+- Criminal: Spain
+  [poster: https://m.media-amazon.com/images/M/MV5BNzI5MTc1MGUtNzNlYy00YjA4LWI3MTEtN2ExMzljYTczOWUxXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt10986050/]
+  [status: Watched]
+  [year: 2019]
+  [id: tt10986050]
+
+- Criminal: UK
+  [poster: https://m.media-amazon.com/images/M/MV5BODdkNzE3ZTQtZTRmOC00M2RlLWJiYWEtN2RkMGQyOWNhMmNlXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt9348692/]
+  [status: Watched]
+  [year: 2019–2020]
+  [id: tt9348692]
+
+- Cunk on Earth
+  [poster: https://m.media-amazon.com/images/M/MV5BOGEwMjNlZTYtNWRkNi00MTc0LWJlZWUtNjMyOWU3N2ZiMzZjXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt16867040/]
+  [status: Watched]
+  [year: 2022]
+  [id: tt16867040]
+
+- Dark
+  [poster: https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt5753856/]
+  [status: Watched]
+  [year: 2017–2020]
+  [id: tt5753856]
+
+- Dirk Gently's Holistic Detective Agency
+  [poster: https://m.media-amazon.com/images/M/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt4047038/]
+  [status: Unwatched]
+  [year: 2016–2017]
+  [id: tt4047038]
+
+- Farzi
+  [poster: https://m.media-amazon.com/images/M/MV5BNDY2OWMxNzgtZGQ4Ny00ODI3LTk3MTAtYjM4N2U4ZGI3ZGY1XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt15477488/]
+  [status: Watched]
+  [year: 2023–]
+  [id: tt15477488]
+
+- Fleabag
+  [poster: https://m.media-amazon.com/images/M/MV5BMjA4MzU5NzQxNV5BMl5BanBnXkFtZTgwOTg3MDA5NzM@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt5687612/]
+  [status: Watched]
+  [year: 2016–2019]
+  [id: tt5687612]
+
+- Friends
+  [poster: https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt0108778/]
+  [status: Watched]
+  [year: 1994–2004]
+  [id: tt0108778]
+
+- How I Met Your Mother
+  [poster: https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt0460649/]
+  [status: Watched]
+  [year: 2005–2014]
+  [id: tt0460649]
+
+- It's Okay to Not Be Okay
+  [poster: https://m.media-amazon.com/images/M/MV5BNzZmOWMwNjktNzdkOC00MDcxLWE3YTItNzIwOTRjOGFlYWZlXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt12451520/]
+  [status: Watched]
+  [year: 2020]
+  [id: tt12451520]
+
+- Itaewon Class
+  [poster: https://m.media-amazon.com/images/M/MV5BODEyZmVlMWEtYjNmNS00MTQ5LThlMzgtZjM4YjNhMGVkZWI4XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt11239552/]
+  [status: Watched]
+  [year: 2020]
+  [id: tt11239552]
+
+- Kaleidoscope
+  [poster: https://m.media-amazon.com/images/M/MV5BZmE4ZGMzMzktYzkwMy00NTZiLWFjYzktNzA4MmI4NGEyZTkzXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt15438246/]
+  [status: Watched]
+  [year: 2023]
+  [id: tt15438246]
+
+- Little Things
+  [poster: https://m.media-amazon.com/images/M/MV5BZjE1YzUxNGYtMjVhZi00NWNjLTlmYzEtMzI3YTdhMGEwMjNkXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg]
+  [url: https://www.imdb.com/title/tt6522580/]
+  [status: Watched]
+  [year: 2016–]
+  [id: tt6522580]
+
+- Lost
+  [poster: https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt0411008/]
+  [status: Ongoing]
+  [year: 2004–2010]
+  [id: tt0411008]
+
+- Love, Death & Robots
+  [poster: https://m.media-amazon.com/images/M/MV5BZDY3OTZiYzktN2U5My00MzRhLWJiZjItZjNlZmM3OGViZmFiXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt9561862/]
+  [status: Watched]
+  [year: 2019–]
+  [id: tt9561862]
+
+- Lucifer
+  [poster: https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt4052886/]
+  [status: Watched]
+  [year: 2016–2021]
+  [id: tt4052886]
+
+- Mad Men
+  [poster: https://m.media-amazon.com/images/M/MV5BYTNjNjc5OWQtYjMxNC00MzEwLWIxM2UtNjU3NzhkNjZmNGI3XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt0804503/]
+  [status: Unwatched]
+  [year: 2007–2015]
+  [id: tt0804503]
+
+- Midnight Mass
+  [poster: https://m.media-amazon.com/images/M/MV5BYWFjMDM5MzgtZWI3OC00ZWRmLThlNTktN2ZkMTc3ZTA5NGEzXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt10574558/]
+  [status: Watched]
+  [year: 2021]
+  [id: tt10574558]
+
+- Modern Family
+  [poster: https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt1442437/]
+  [status: Unfinished]
+  [year: 2009–2020]
+  [id: tt1442437]
+
+- Modern Love
+  [poster: https://m.media-amazon.com/images/M/MV5BZjA0OGMxYTktOTY5MC00YzdmLWI4MWMtNWI1NzkzOWZkMjg4XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt8543390/]
+  [status: Watched]
+  [year: 2019–2021]
+  [id: tt8543390]
+
+- Money Heist
+  [poster: https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt6468322/]
+  [status: Watched]
+  [year: 2017–2021]
+  [id: tt6468322]
+
+- More Than Friends
+  [poster: https://m.media-amazon.com/images/M/MV5BODVmMzAyZWMtMjlkMi00NmYwLTg0NjktN2E3M2EzMDI5ZDNhXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg]
+  [url: https://www.imdb.com/title/tt12879170/]
+  [status: Watched]
+  [year: 2020]
+  [id: tt12879170]
+
+- Only Murders in the Building
+  [poster: https://m.media-amazon.com/images/M/MV5BZjNlZjRhMmMtMzUyYy00NmQxLThlZmQtZDAyMzBlMTAzMTcxXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt11691774/]
+  [status: Unwatched]
+  [year: 2021–]
+  [id: tt11691774]
+
+- Pantheon
+  [poster: https://m.media-amazon.com/images/M/MV5BNGM2NjRjMzAtZjY5Ni00MWVkLWJlMTQtMWVmOWE1N2M2ZWM0XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt11680642/]
+  [status: Watched]
+  [year: 2022–2023]
+  [id: tt11680642]
+
+- Patriot Act with Hasan Minhaj
+  [poster: https://m.media-amazon.com/images/M/MV5BMGNiNGJkMWYtODQ2MC00NjViLWJjNzctNjZlMzI5Y2ZiNjM0XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt8080054/]
+  [status: Watched]
+  [year: 2018–2020]
+  [id: tt8080054]
+
+- Rick and Morty
+  [poster: https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt2861424/]
+  [status: Watched]
+  [year: 2013–]
+  [id: tt2861424]
+
+- Scott Pilgrim Takes Off
+  [poster: https://m.media-amazon.com/images/M/MV5BZGMyMzI3ZjktM2E5ZS00NmFjLWE5MmUtMTcxYzFkYmQ3YjM0XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt16969708/]
+  [status: Watched]
+  [year: 2023]
+  [id: tt16969708]
+
+- Something in the Rain
+  [poster: https://m.media-amazon.com/images/M/MV5BNDgwNDQ1NzAtNzU5Yy00YWE4LWFhNWQtYjM2NGViY2E0YTFlXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt8078816/]
+  [status: Watched]
+  [year: 2018]
+  [id: tt8078816]
+
+- Start-Up
+  [poster: https://m.media-amazon.com/images/M/MV5BYTJiYmE0ZGItMmU1NS00NThhLWIzODEtZmJlYjBmMzcwNmY3XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt12867810/]
+  [status: Watched]
+  [year: 2020]
+  [id: tt12867810]
+
+- Stranger Things
+  [poster: https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt4574334/]
+  [status: Watched]
+  [year: 2016–2025]
+  [id: tt4574334]
+
+- Taylor Tomlinson: Look at You
+  [poster: https://m.media-amazon.com/images/M/MV5BZGJmMWFhNjAtMjUzZi00MTdiLWFjNDMtNDA3NWNhN2IzNzFlXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt18096250/]
+  [status: Watched]
+  [year: 2022]
+  [id: tt18096250]
+
+- Taylor Tomlinson: Quarter-Life Crisis
+  [poster: https://m.media-amazon.com/images/M/MV5BYzI4Y2Y4Y2MtNThjMi00NjVhLTk5NWEtODg1YmM4OGU1ZmZkXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt11738792/]
+  [status: Watched]
+  [year: 2020]
+  [id: tt11738792]
+
+- That '70s Show
+  [poster: https://m.media-amazon.com/images/M/MV5BMTdhMTNmNjEtOTI5Yi00N2MyLTlmOGMtOWMyYzFhZjhmZTU4XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt0165598/]
+  [status: Watched]
+  [year: 1998–2006]
+  [id: tt0165598]
+
+- The Boys
+  [poster: https://m.media-amazon.com/images/M/MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt1190634/]
+  [status: Watched]
+  [year: 2019–]
+  [id: tt1190634]
+
+- The Good Place
+  [poster: https://m.media-amazon.com/images/M/MV5BNjI3ZGRhNDYtNDFjOS00OGFlLTg4NTEtYjZjYTViY2ZiMzBkXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt4955642/]
+  [status: Watched]
+  [year: 2016–2020]
+  [id: tt4955642]
+
+- The Last of Us
+  [poster: https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt3581920/]
+  [status: Watched]
+  [year: 2023–]
+  [id: tt3581920]
+
+- The Newsroom
+  [poster: https://m.media-amazon.com/images/M/MV5BNzk4ZjllMjktY2MyMy00N2M3LWFhYjYtM2FkY2YxMzkyNzgyXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt1870479/]
+  [status: Watched]
+  [year: 2012–2014]
+  [id: tt1870479]
+
+- The Railwaymen
+  [poster: https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kOYlMHtNSqnf1FgsoK1JJypfkrY.jpg]
+  [url: https://www.imdb.com/title/tt2318721/]
+  [status: Unwatched]
+  [year: 2002]
+  [id: tt2318721]
+
+- The Spy
+  [poster: https://m.media-amazon.com/images/M/MV5BNjQzZDc5YzYtYzdkMy00NmQ0LWI0ODctZjFhMzQ4ZDMyMDA5XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt5952634/]
+  [status: Watched]
+  [year: 2019]
+  [id: tt5952634]
+
+- The Umbrella Academy
+  [poster: https://m.media-amazon.com/images/M/MV5BMzlmMmIxODItYzBjNC00YjMwLWIwOTAtNzVlMTBlNTNkMjZjXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt1312171/]
+  [status: Watched]
+  [year: 2019–2024]
+  [id: tt1312171]
+
+- Twenty Five Twenty One
+  [poster: https://m.media-amazon.com/images/M/MV5BYTdjZWExZmMtZTY0Yy00N2U3LTkyYmYtMGNjZjUyZTM0Njg0XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt17513352/]
+  [status: Watched]
+  [year: 2022]
+  [id: tt17513352]
+
+- Undone
+  [poster: https://m.media-amazon.com/images/M/MV5BMGU0OGE0Y2EtODA2Ny00MmEyLThiY2QtNWQzNTZhODg1NmIxXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt8101850/]
+  [status: Watched]
+  [year: 2019–2022]
+  [id: tt8101850]
+
+- Vir Das: Outside in - The Lockdown Special
+  [poster: https://m.media-amazon.com/images/M/MV5BMTAxZjE1M2UtMTczNi00NGVmLTlkNjctYTZlYWM3ZTYzNTQ2XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt13529992/]
+  [status: Watched]
+  [year: 2020]
+  [id: tt13529992]
+
+- What's Wrong with Secretary Kim
+  [poster: https://m.media-amazon.com/images/M/MV5BOTgxYzZlMmYtZDJiMy00MjMxLWFmNjQtZDg4YjJhYjQzNjBjXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt8242904/]
+  [status: Watched]
+  [year: 2018]
+  [id: tt8242904]
+
+- Who Is America?
+  [poster: https://m.media-amazon.com/images/M/MV5BZTg3ZDRkZWItYzA1Yy00MjdlLTk3MGItMTJkZjM5Y2VjZmM4XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://www.imdb.com/title/tt8679236/]
+  [status: Unwatched]
+  [year: 2018]
+  [id: tt8679236]
+

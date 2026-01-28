@@ -6,7 +6,7 @@ tags:
 
 ${mediaWidget(query[[
       from index.tag "item"
-      where page == "Data/Films"
+      where page == "Library/Data/Films"
       order by name
     ]])}
 
