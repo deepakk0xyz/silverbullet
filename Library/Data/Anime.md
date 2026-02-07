@@ -10,7 +10,7 @@
 - Frieren: Beyond Journey's End
   [poster: https://m.media-amazon.com/images/M/MV5BZTI4ZGMxN2UtODlkYS00MTBjLWE1YzctYzc3NDViMGI0ZmJmXkEyXkFqcGc@._V1_SX300.jpg]
   [url: https://www.imdb.com/title/tt22248376/]
-  [status: Watched]
+  [status: Ongoing]
   [year: 2023–]
   [id: tt22248376]
 
@@ -34,4 +34,7 @@
   [status: Watched]
   [year: 2011–2015]
   [id: tt1910272]
+
+
+${shell.run('whoami').stdout}
 

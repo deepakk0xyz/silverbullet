@@ -3,6 +3,13 @@
 # Media Template
 
 ```space-lua
+local function getRating(rating) 
+  if(rating == nil) then
+    return "Unrated"
+  end
+  return string.rep("⭐", rating) 
+end
+
 function mediaTemplate(media)
   local tree = string.split(media.page, "/");
   local page = string.lower(tree[#tree]);
@@ -19,6 +26,10 @@ function mediaTemplate(media)
       "Status: " .. media.status;
       class = "text " .. page; 
     };
+    dom.div {
+      "Rating: " .. getRating(media.rating);
+      class = "text " .. page;
+    }
   };
 end
 

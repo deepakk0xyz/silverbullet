@@ -66,14 +66,14 @@
 - A Dream of Spring
   [poster: https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png]
   [url: https://www.goodreads.com/book/show/6382055]
-  [status: Want To Read]
+  [status: Unread]
   [year: None]
   [id: 6382055]
 
 - A Thousand Splendid Suns
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655336738i/128029.jpg]
   [url: https://www.goodreads.com/book/show/128029]
-  [status: Want To Read]
+        [status: Unread]
   [year: 2007]
   [id: 128029]
 
@@ -115,14 +115,14 @@
 - Arsène Lupin, Gentleman-Thief
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348259825i/141270.jpg]
   [url: https://www.goodreads.com/book/show/141270]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1907]
   [id: 141270]
 
 - Babel
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677361825i/57945316.jpg]
   [url: https://www.goodreads.com/book/show/57945316]
-  [status: Want To Read]
+  [status: Unread]
   [year: 2022]
   [id: 57945316]
 
@@ -178,14 +178,14 @@
 - Children of Ruin
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693752895i/40376072.jpg]
   [url: https://www.goodreads.com/book/show/40376072]
-  [status: Want To Read]
+  [status: Unread]
   [year: 2019]
   [id: 40376072]
 
 - Children of Memory
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655929460i/60850767.jpg]
   [url: https://www.goodreads.com/book/show/60850767]
-  [status: Want To Read]
+  [status: Unread]
   [year: 2022]
   [id: 60850767]
 
@@ -241,7 +241,7 @@
 - Don Quixote
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546112331i/3836.jpg]
   [url: https://www.goodreads.com/book/show/3836]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1615]
   [id: 3836]
 
@@ -276,7 +276,7 @@
 - Frankenstein: The 1818 Text
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631088473i/35031085.jpg]
   [url: https://www.goodreads.com/book/show/35031085]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1818]
   [id: 35031085]
 
@@ -444,7 +444,7 @@
 - Gardens of the Moon
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548497031i/55399.jpg]
   [url: https://www.goodreads.com/book/show/55399]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1999]
   [id: 55399]
 
@@ -458,7 +458,7 @@
 - Normal People
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571423190i/41057294.jpg]
   [url: https://www.goodreads.com/book/show/41057294]
-  [status: Want To Read]
+  [status: Unread]
   [year: 2018]
   [id: 41057294]
 
@@ -535,7 +535,7 @@
 - The Secret of Secrets
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738135066i/223889699.jpg]
   [url: https://www.goodreads.com/book/show/223889699]
-  [status: Want To Read]
+  [status: Unread]
   [year: 2025]
   [id: 223889699]
 
@@ -591,7 +591,7 @@
 - His Last Bow
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368588782i/754713.jpg]
   [url: https://www.goodreads.com/book/show/754713]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1917]
   [id: 754713]
 
@@ -626,21 +626,21 @@
 - The Brothers Karmazov
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677801642i/11754647.jpg]
   [url: https://www.goodreads.com/book/show/11754647]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1880]
   [id: 11754647]
 
 - The Count of Monte Cristo
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724863997i/7126.jpg]
   [url: https://www.goodreads.com/book/show/7126]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1846]
   [id: 7126]
 
 - The Bone Shard Daughter
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586229099i/50706646.jpg]
   [url: https://www.goodreads.com/book/show/50706646]
-  [status: Want To Read]
+  [status: Unread]
   [year: 2020]
   [id: 50706646]
 
@@ -654,14 +654,14 @@
 - Jade City
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547625704i/43587154.jpg]
   [url: https://www.goodreads.com/book/show/43587154]
-  [status: Want To Read]
+  [status: Unread]
   [year: 2017]
   [id: 43587154]
 
 - The Handmaid’s Tale
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578028274i/38447.jpg]
   [url: https://www.goodreads.com/book/show/38447]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1985]
   [id: 38447]
 
@@ -689,7 +689,7 @@
 - The Metamorphosis
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646444605i/485894.jpg]
   [url: https://www.goodreads.com/book/show/485894]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1915]
   [id: 485894]
 
@@ -738,7 +738,7 @@
 - The Palace of Illusions
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679444666i/1774836.jpg]
   [url: https://www.goodreads.com/book/show/1774836]
-  [status: Want To Read]
+  [status: Unread]
   [year: 2008]
   [id: 1774836]
 
@@ -752,7 +752,7 @@
 - The Picture of Dorian Gray
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454087681i/489732.jpg]
   [url: https://www.goodreads.com/book/show/489732]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1890]
   [id: 489732]
 
@@ -808,7 +808,7 @@
 - Wuthering Heights
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388212715i/6185.jpg]
   [url: https://www.goodreads.com/book/show/6185]
-  [status: Want To Read]
+  [status: Unread]
   [year: 1847]
   [id: 6185]
 
