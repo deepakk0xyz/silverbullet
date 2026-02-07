@@ -5,3 +5,5 @@ ${treeview.template(query[[
   order by priority, name
   select {name=_.name, path=_.path}
 ]])}
+
+${shell.run("imdb").stdout}

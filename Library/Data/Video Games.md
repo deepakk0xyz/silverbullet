@@ -9,6 +9,7 @@
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg?t=1750960607]
   [status: Finished]
   [year: 2024]
+  [rating: 5]
 
 - Black Myth: Wukong
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1742561528]
@@ -24,31 +25,31 @@
   [poster: https://cdn.akamai.steamstatic.com/steam/apps/504230/header.jpg?t=1684953953]
   [status: Finished]
   [year: 2018]
+  [rating: 5]
 
 - Chants of Sennaar
   [poster: https://cdn.akamai.steamstatic.com/steam/apps/1931770/header.jpg?t=1695809281]
   [status: Finished]
   [year: 2023]
+  [rating: 4]
 
 - Cuphead
   [poster: https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg?t=1695655205]
   [status: Finished]
   [year: 2017]
+  [rating: 5]
 
 - Disco Elysium - The Final Cut
   [poster: https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg?t=1727256511]
   [status: Finished]
   [year: 2019]
-
-- Endling
-  [poster: https://cdn.cloudflare.steamstatic.com/steam/apps/898890/header.jpg?t=1690550090]
-  [status: Did Not Finish]
-  [year: 2022]
+  [rating: 5]
 
 - God of War
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1729030762]
   [status: Finished]
   [year: 2018]
+  [rating: 5]
 
 - God of War Ragnarök
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1738256985]
@@ -59,21 +60,25 @@
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1737495883]
   [status: Finished]
   [year: 2024]
+  [rating: 3]
 
 - Gibbon - Beyond The Trees
   [poster: https://cdn.cloudflare.steamstatic.com/steam/apps/1837330/header.jpg?t=1688726905]
   [status: Finished]
   [year: 2022]
+  [rating: 3]
 
 - Gris
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg?t=1728690313]
   [status: Finished]
   [year: 2018]
+  [rating: 5]
 
 - Hades
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1715722799]
-  [status: Unplayed]
+  [status: Finished]
   [year: 2020]
+  [rating: 5]
 
 - Hades II
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ae56f68e0a020df77d6cfac84bbfbb9df5bbbbe0/header.jpg?t=1750182023]
@@ -84,21 +89,25 @@
   [poster: https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg?t=1667006028]
   [status: Finished]
   [year: 2017]
+  [rating: 5]
 
 - Hollow Knight: Silksong
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg]
   [status: Ongoing]
-  [year: 2017]
+  [year: 2025]
+  [rating: 5]
 
 - Inscryption
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1744166674]
   [status: Finished]
   [year: 2021]
+  [rating: 5]
 
 - It Takes Two
   [poster: https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg?t=1691006466]
   [status: Finished]
   [year: 2021]
+  [rating: 5]
 
 - Mark of the Ninja: Remastered
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860950/header.jpg?t=1701911769]
@@ -112,33 +121,38 @@
 
 - Outer Wilds
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg?t=1729097431]
-  [status: Ongoing]
+  [status: Finished]
   [year: 2020]
+  [rating: 5]
 
 - Partick's Parabox
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260520/header.jpg?t=1745611653]
-  [status: Unplayed]
+  [status: Ongoing]
   [year: 2022]
 
 - Planet Of Lana
   [poster: https://cdn.cloudflare.steamstatic.com/steam/apps/1608230/header.jpg?t=1688537787]
   [status: Finished]
   [year: 2023]
+  [rating: 4]
 
 - Portal
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554]
   [status: Finished]
   [year: 2007]
+  [rating: 5]
 
 - Portal 2
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004]
   [status: Finished]
   [year: 2011]
+  [rating: 5]
 
 - Rain World
   [poster: https://cdn.cloudflare.steamstatic.com/steam/apps/312520/header.jpg?t=1674137018]
   [status: Finished]
   [year: 2017]
+  [rating: 5]
 
 - Red Dead Redemption 2
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1720558643]
@@ -154,24 +168,73 @@
   [poster: https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1747683986]
   [status: Finished]
   [year: 2025]
+  [rating: 5]
 
 - The Last of Us: Part I
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1741209545]
   [status: Finished]
   [year: 2013]
+  [rating: 5]
 
 - The Last of Us: Part II
   [poster: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1743700473]
   [status: Finished]
   [year: 2020]
+  [rating: 5]
 
 - The Stanley Parable: Ultra Deluxe
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/header.jpg?t=1712065263]
   [status: Finished]
   [year: 2022]
+  [rating: 4]
 
 - Untitled Goose Game
   [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg?t=1699052664]
   [status: Finished]
   [year: 2020]
+  [rating: 3]
 
+- Nier: Automata
+  [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1768992897]
+  [status: Ongoing]
+  [year: 2017]
+
+- The Case of The Golden Idol
+  [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/header.jpg?t=1758227116]
+  [status: Ongoing]
+  [year: 2022]
+  [rating: 3]
+
+- Stray
+  [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg?t=1733260906]
+  [status: Finished]
+  [year: 2022]
+  [rating: 4]
+
+- Undertale
+  [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1757349115]
+  [status: Ongoing]
+  [year: 2015]
+  [rating: 4]
+
+- Cult Of The Lamb
+  [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1769836674]
+  [status: Finished]
+  [year: 2022]
+  [rating: 4]
+
+- Dark Souls: Remastered
+  [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1764975651]
+  [status: Want To Play]
+  [year: 2018]
+
+- Tchia
+  [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496590/header.jpg?t=1727258805]
+  [status: Finished]
+  [year: 2024]
+  [rating: 3]
+
+- Recur
+  [poster: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595260/header.jpg?t=1767635611]
+  [status: Want To Play]
+  [year: Unreleased]

@@ -276,7 +276,7 @@
 - Frankenstein: The 1818 Text
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631088473i/35031085.jpg]
   [url: https://www.goodreads.com/book/show/35031085]
-  [status: Unread]
+  [status: Read]
   [year: 1818]
   [id: 35031085]
 
@@ -458,7 +458,7 @@
 - Normal People
   [poster: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571423190i/41057294.jpg]
   [url: https://www.goodreads.com/book/show/41057294]
-  [status: Unread]
+  [status: Read]
   [year: 2018]
   [id: 41057294]
 
