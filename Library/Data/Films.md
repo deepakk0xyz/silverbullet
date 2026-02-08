@@ -1,4 +1,3 @@
-
 - 10 Things I Hate About You
   [poster: https://m.media-amazon.com/images/M/MV5BOTQwYmRhNGQtODI2Mi00ZTRlLTk0Y2QtY2NkNjE1MGNhNTgwXkEyXkFqcGc@._V1_SX300.jpg]
   [url: https://www.imdb.com/title/tt0147800/]

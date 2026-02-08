@@ -228,3 +228,11 @@
   [year: 2011–2014]
   [id: tt2098220]
   [rating: 5]
+
+- Hell's Paradise: Jigokuraku
+  [poster: https://m.media-amazon.com/images/M/MV5BZjhmMjhkNjUtMGU2MC00N2IzLTg1YzItZDk5ODMxMDYxODc0XkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://imdb.com/title/tt13911284/]
+  [status: Ongoing]
+  [year: 2023–]
+  [id: tt13911284]
+  [rating: 4]
