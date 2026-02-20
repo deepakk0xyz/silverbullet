@@ -236,3 +236,11 @@
   [year: 2023–]
   [id: tt13911284]
   [rating: 4]
+
+- Cowboy Bebop
+  [poster: https://m.media-amazon.com/images/M/MV5BMTU3ZTdiOGQtYmYwYy00OGM5LThmNjMtZGJmNTVlZjk1ZmEyXkEyXkFqcGc@._V1_SX300.jpg]
+  [url: https://imdb.com/title/tt0213338/]
+  [status: Watched]
+  [year: 1998–1999]
+  [id: tt0213338]
+  [rating: 4]

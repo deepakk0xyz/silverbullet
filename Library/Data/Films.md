@@ -1539,3 +1539,10 @@
   [id: tt1454468]
   [rating: 5]
 
+- The Edge of Seventeen
+  [poster: https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_SX300.jpg]
+  [url: https://imdb.com/title/tt1878870/]
+  [status: Watched]
+  [year: 2016]
+  [id: tt1878870]
+  [rating: 4]

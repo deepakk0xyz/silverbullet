@@ -15,7 +15,7 @@ ${mediaWidget(query[[
 ${mediaWidget(query[[
       from index.tag "item"
       where page == "Library/Data/Films"
-      where status == "Watched"
+      and status == "Watched"
       order by name
     ]])}
 
